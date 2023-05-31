@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QUANLYNHANVIENBANGLUONG" Class="SP_ThemNVDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=loptop;Initial Catalog=QUANLYNHANVIENBANGLUONG;Integrated Security=True" SettingsObjectName="PayrollManagement.Properties.Settings" SettingsPropertyName="QUANLYNHANVIENBANGLUONGConnectionString" Provider="System.Data.SqlClient" />
+  <Function Name="dbo.SP_Them_NhanVien" Method="SP_Them_NhanVien">
+    <Parameter Name="tenNV" Type="System.String" DbType="NVarChar(150)" />
+    <Parameter Name="username" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="password" Type="System.String" DbType="VarChar(500)" />
+    <Parameter Name="sdt" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="email" Type="System.String" DbType="VarChar(150)" />
+    <Parameter Name="gioiTinh" Type="System.String" DbType="VarChar(4)" />
+    <Parameter Name="ngaySinh" Type="System.DateTime" DbType="Date" />
+    <Parameter Name="ngayKyHD" Type="System.DateTime" DbType="Date" />
+    <Parameter Name="HSLuong" Parameter="hSLuong" Type="System.Double" DbType="Float" />
+    <Parameter Name="LuongCB" Parameter="luongCB" Type="System.Double" DbType="Float" />
+    <Parameter Name="idCV" Type="System.Int32" DbType="Int" />
+    <Parameter Name="idPB" Type="System.Int32" DbType="Int" />
+    <Parameter Name="idTD" Type="System.Int32" DbType="Int" />
+    <Parameter Name="idHD" Type="System.Int32" DbType="Int" />
+    <Parameter Name="phanQuyen" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.SP_CapNhat_NhanVien" Method="SP_CapNhat_NhanVien">
+    <Parameter Name="idNV" Type="System.Int32" DbType="Int" />
+    <Parameter Name="tenNV" Type="System.String" DbType="NVarChar(150)" />
+    <Parameter Name="username" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="password" Type="System.String" DbType="VarChar(500)" />
+    <Parameter Name="sdt" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="email" Type="System.String" DbType="VarChar(150)" />
+    <Parameter Name="gioiTinh" Type="System.String" DbType="VarChar(4)" />
+    <Parameter Name="ngaySinh" Type="System.DateTime" DbType="Date" />
+    <Parameter Name="ngayKyHD" Type="System.DateTime" DbType="Date" />
+    <Parameter Name="HSLuong" Parameter="hSLuong" Type="System.Double" DbType="Float" />
+    <Parameter Name="LuongCB" Parameter="luongCB" Type="System.Double" DbType="Float" />
+    <Parameter Name="idCV" Type="System.Int32" DbType="Int" />
+    <Parameter Name="idPB" Type="System.Int32" DbType="Int" />
+    <Parameter Name="idTD" Type="System.Int32" DbType="Int" />
+    <Parameter Name="idHD" Type="System.Int32" DbType="Int" />
+    <Parameter Name="phanQuyen" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.SP_Xoa_NhanVien" Method="SP_Xoa_NhanVien">
+    <Parameter Name="id" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.SP_Them_PB" Method="SP_Them_PB">
+    <Parameter Name="tenPB" Type="System.String" DbType="NVarChar(150)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.SP_CapNhat_PB" Method="SP_CapNhat_PB">
+    <Parameter Name="idPB" Type="System.Int32" DbType="Int" />
+    <Parameter Name="tenPB" Type="System.String" DbType="NVarChar(150)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.SP_Xoa_PB" Method="SP_Xoa_PB">
+    <Parameter Name="id" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.SP_Them_CV" Method="SP_Them_CV">
+    <Parameter Name="tenCV" Type="System.String" DbType="NVarChar(150)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.SP_CapNhat_CV" Method="SP_CapNhat_CV">
+    <Parameter Name="idCV" Type="System.Int32" DbType="Int" />
+    <Parameter Name="tenCV" Type="System.String" DbType="NVarChar(150)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.SP_Xoa_CV" Method="SP_Xoa_CV">
+    <Parameter Name="id" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.SP_Xoa_TD" Method="SP_Xoa_TD">
+    <Parameter Name="id" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.SP_Them_TD" Method="SP_Them_TD">
+    <Parameter Name="tenTD" Type="System.String" DbType="NVarChar(150)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.SP_CapNhat_TD" Method="SP_CapNhat_TD">
+    <Parameter Name="idTD" Type="System.Int32" DbType="Int" />
+    <Parameter Name="tenTD" Type="System.String" DbType="NVarChar(150)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.SP_CapNhat_HD" Method="SP_CapNhat_HD">
+    <Parameter Name="idHD" Type="System.Int32" DbType="Int" />
+    <Parameter Name="tenHD" Type="System.String" DbType="NVarChar(150)" />
+    <Parameter Name="loaiHD" Type="System.String" DbType="NVarChar(10)" />
+    <Parameter Name="thoiHan" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.SP_Them_HD" Method="SP_Them_HD">
+    <Parameter Name="tenHD" Type="System.String" DbType="NVarChar(150)" />
+    <Parameter Name="loaiHD" Type="System.String" DbType="NVarChar(10)" />
+    <Parameter Name="thoiHan" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.SP_Xoa_HD" Method="SP_Xoa_HD">
+    <Parameter Name="id" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.SP_Xoa_ChamCong" Method="SP_Xoa_ChamCong">
+    <Parameter Name="id" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.SP_CapNhat_ChamCong" Method="SP_CapNhat_ChamCong">
+    <Parameter Name="idLuong" Type="System.Int32" DbType="Int" />
+    <Parameter Name="idNV" Type="System.Int32" DbType="Int" />
+    <Parameter Name="nam" Type="System.Int32" DbType="Int" />
+    <Parameter Name="thang" Type="System.Int32" DbType="Int" />
+    <Parameter Name="SoNgayLamViec" Parameter="soNgayLamViec" Type="System.Int32" DbType="Int" />
+    <Parameter Name="SoNgayLamThem" Parameter="soNgayLamThem" Type="System.Int32" DbType="Int" />
+    <Parameter Name="SoGioTangCa" Parameter="soGioTangCa" Type="System.Int32" DbType="Int" />
+    <Parameter Name="SoLanDiTre" Parameter="soLanDiTre" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.SP_Them_ChamCong" Method="SP_Them_ChamCong">
+    <Parameter Name="idNV" Type="System.Int32" DbType="Int" />
+    <Parameter Name="nam" Type="System.Int32" DbType="Int" />
+    <Parameter Name="thang" Type="System.Int32" DbType="Int" />
+    <Parameter Name="SoNgayLamViec" Parameter="soNgayLamViec" Type="System.Int32" DbType="Int" />
+    <Parameter Name="SoNgayLamThem" Parameter="soNgayLamThem" Type="System.Int32" DbType="Int" />
+    <Parameter Name="SoGioTangCa" Parameter="soGioTangCa" Type="System.Int32" DbType="Int" />
+    <Parameter Name="SoLanDiTre" Parameter="soLanDiTre" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>

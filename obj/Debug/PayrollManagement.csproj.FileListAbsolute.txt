@@ -1,0 +1,64 @@
+D:\WinForm\PayrollManagement\bin\Debug\PayrollManagement.exe.config
+D:\WinForm\PayrollManagement\bin\Debug\PayrollManagement.exe
+D:\WinForm\PayrollManagement\bin\Debug\PayrollManagement.pdb
+D:\WinForm\PayrollManagement\obj\Debug\PayrollManagement.csprojAssemblyReference.cache
+D:\WinForm\PayrollManagement\obj\Debug\PayrollManagement.TrangChu.resources
+D:\WinForm\PayrollManagement\obj\Debug\PayrollManagement.Properties.Resources.resources
+D:\WinForm\PayrollManagement\obj\Debug\PayrollManagement.csproj.GenerateResource.cache
+D:\WinForm\PayrollManagement\obj\Debug\PayrollManagement.csproj.CoreCompileInputs.cache
+D:\WinForm\PayrollManagement\obj\Debug\PayrollManagement.exe
+D:\WinForm\PayrollManagement\obj\Debug\PayrollManagement.pdb
+D:\WinForm\PayrollManagement\obj\Debug\PayrollManagement.NhanVien.resources
+D:\WinForm\PayrollManagement\obj\Debug\PayrollManagement.ChamCong.resources
+D:\WinForm\PayrollManagement\obj\Debug\PayrollManagement.PhongBan.resources
+D:\WinForm\PayrollManagement\obj\Debug\PayrollManagement.ChucVu.resources
+D:\WinForm\PayrollManagement\obj\Debug\PayrollManagement.HopDong.resources
+D:\WinForm\PayrollManagement\obj\Debug\PayrollManagement.TrinhDo.resources
+D:\WinForm\PayrollManagement\obj\Debug\PayrollManagement.HSLuong.resources
+D:\HỌC TẬP\Data Base\PayrollManagement\bin\Debug\PayrollManagement.exe.config
+D:\HỌC TẬP\Data Base\PayrollManagement\bin\Debug\PayrollManagement.exe
+D:\HỌC TẬP\Data Base\PayrollManagement\bin\Debug\PayrollManagement.pdb
+D:\HỌC TẬP\Data Base\PayrollManagement\obj\Debug\PayrollManagement.csprojAssemblyReference.cache
+D:\HỌC TẬP\Data Base\PayrollManagement\obj\Debug\PayrollManagement.ChamCong.resources
+D:\HỌC TẬP\Data Base\PayrollManagement\obj\Debug\PayrollManagement.ChucVu.resources
+D:\HỌC TẬP\Data Base\PayrollManagement\obj\Debug\PayrollManagement.TrangChu.resources
+D:\HỌC TẬP\Data Base\PayrollManagement\obj\Debug\PayrollManagement.HopDong.resources
+D:\HỌC TẬP\Data Base\PayrollManagement\obj\Debug\PayrollManagement.HSLuong.resources
+D:\HỌC TẬP\Data Base\PayrollManagement\obj\Debug\PayrollManagement.NhanVien.resources
+D:\HỌC TẬP\Data Base\PayrollManagement\obj\Debug\PayrollManagement.PhongBan.resources
+D:\HỌC TẬP\Data Base\PayrollManagement\obj\Debug\PayrollManagement.Properties.Resources.resources
+D:\HỌC TẬP\Data Base\PayrollManagement\obj\Debug\PayrollManagement.TrinhDo.resources
+D:\HỌC TẬP\Data Base\PayrollManagement\obj\Debug\PayrollManagement.csproj.GenerateResource.cache
+D:\HỌC TẬP\Data Base\PayrollManagement\obj\Debug\PayrollManagement.csproj.CoreCompileInputs.cache
+D:\HỌC TẬP\Data Base\PayrollManagement\obj\Debug\PayrollManagement.exe
+D:\HỌC TẬP\Data Base\PayrollManagement\obj\Debug\PayrollManagement.pdb
+C:\Users\zetze\Desktop\PayrollManagement\PayrollManagement\bin\Debug\PayrollManagement.exe.config
+C:\Users\zetze\Desktop\PayrollManagement\PayrollManagement\bin\Debug\PayrollManagement.exe
+C:\Users\zetze\Desktop\PayrollManagement\PayrollManagement\bin\Debug\PayrollManagement.pdb
+C:\Users\zetze\Desktop\PayrollManagement\PayrollManagement\obj\Debug\PayrollManagement.csprojAssemblyReference.cache
+C:\Users\zetze\Desktop\PayrollManagement\PayrollManagement\obj\Debug\PayrollManagement.ChamCong.resources
+C:\Users\zetze\Desktop\PayrollManagement\PayrollManagement\obj\Debug\PayrollManagement.ChucVu.resources
+C:\Users\zetze\Desktop\PayrollManagement\PayrollManagement\obj\Debug\PayrollManagement.TrangChu.resources
+C:\Users\zetze\Desktop\PayrollManagement\PayrollManagement\obj\Debug\PayrollManagement.HopDong.resources
+C:\Users\zetze\Desktop\PayrollManagement\PayrollManagement\obj\Debug\PayrollManagement.HSLuong.resources
+C:\Users\zetze\Desktop\PayrollManagement\PayrollManagement\obj\Debug\PayrollManagement.NhanVien.resources
+C:\Users\zetze\Desktop\PayrollManagement\PayrollManagement\obj\Debug\PayrollManagement.PhongBan.resources
+C:\Users\zetze\Desktop\PayrollManagement\PayrollManagement\obj\Debug\PayrollManagement.Properties.Resources.resources
+C:\Users\zetze\Desktop\PayrollManagement\PayrollManagement\obj\Debug\PayrollManagement.ThemNhanVien.resources
+C:\Users\zetze\Desktop\PayrollManagement\PayrollManagement\obj\Debug\PayrollManagement.TrinhDo.resources
+C:\Users\zetze\Desktop\PayrollManagement\PayrollManagement\obj\Debug\PayrollManagement.csproj.GenerateResource.cache
+C:\Users\zetze\Desktop\PayrollManagement\PayrollManagement\obj\Debug\PayrollManagement.csproj.CoreCompileInputs.cache
+C:\Users\zetze\Desktop\PayrollManagement\PayrollManagement\obj\Debug\PayrollManagement.exe
+C:\Users\zetze\Desktop\PayrollManagement\PayrollManagement\obj\Debug\PayrollManagement.pdb
+C:\Users\zetze\Desktop\PayrollManagement\PayrollManagement\obj\Debug\PayrollManagement.Login.resources
+C:\Users\zetze\Desktop\PayrollManagement\PayrollManagement\obj\Debug\PayrollManagement.BangLuong.resources
+D:\HỌC TẬP\Data Base\PayrollManagement\obj\Debug\PayrollManagement.BangLuong.resources
+D:\HỌC TẬP\Data Base\PayrollManagement\obj\Debug\PayrollManagement.Login.resources
+D:\HỌC TẬP\Data Base\PayrollManagement\obj\Debug\PayrollManagement.formThem.resources
+D:\HỌC TẬP\Data Base\PayrollManagement\obj\Debug\PayrollManagement.formSua.resources
+D:\HỌC TẬP\Data Base\PayrollManagement\obj\Debug\PayrollManagement.formNhanvienLogin.resources
+D:\WinForm\PayrollManagement\obj\Debug\PayrollManagement.BangLuong.resources
+D:\WinForm\PayrollManagement\obj\Debug\PayrollManagement.formNhanvienLogin.resources
+D:\WinForm\PayrollManagement\obj\Debug\PayrollManagement.formThem.resources
+D:\WinForm\PayrollManagement\obj\Debug\PayrollManagement.Login.resources
+D:\WinForm\PayrollManagement\obj\Debug\PayrollManagement.formSua.resources
